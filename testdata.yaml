@@ -1,0 +1,14 @@
+address: 'https://test-stand.gb.ru'
+url1: 'https://test-stand.gb.ru/api/posts'
+url2: 'https://test-stand.gb.ru/gateway/login'
+browser: chrome
+sleep_time: 3
+username: 'Finik'
+password: '70ccea8a70'
+title1: 'Title_hw4'
+name: 'Finik'
+email: 'verliebtin@mail.ru'
+content1: 'homeworkContent4'
+title: 'Title_hw1'
+description: 'homework1'
+content: 'homeworkContent1'
